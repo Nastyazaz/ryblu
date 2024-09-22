@@ -1,6 +1,6 @@
 
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         // Текущий баланс клиента
         int currentBalance = 100;
